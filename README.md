@@ -46,8 +46,8 @@ This repository is a compiled list of my past webinars/meetups, their code repos
 
 
 10. Neuroevolution
-    - Code (coming soon)
-    - [Event Page](https://www.meetup.com/Disrupt-4-0/events/271212040/)
+    - [Code](https://github.com/theneuralbeing/neuroevolution)
+    - [Event Page](https://www.meetup.com/Disrupt-4-0/events/zfsxrrybcjbbc/)
 
 
 11. Neuroevolution of Augmenting Topologies (NEAT)
