@@ -51,5 +51,13 @@ This repository is a compiled list of my past webinars/meetups, their code repos
 
 
 11. Neuroevolution of Augmenting Topologies (NEAT)
-    - Code (coming soon)
+    - [Code](https://github.com/theneuralbeing/neat)
     - [Event Page](https://www.meetup.com/Disrupt-4-0/events/271212059/)
+    
+12. Metric-based Meta Learning
+    - [Code](https://github.com/theneuralbeing/prototypical_networks)
+    - [Event Page](https://www.meetup.com/Disrupt-4-0/events/271470964/)
+
+13. Model-based Meta Learning
+    - Code (coming soon)
+    - [Event Page](https://www.meetup.com/Disrupt-4-0/events/271778989/)
