@@ -59,5 +59,5 @@ This repository is a compiled list of my past webinars/meetups, their code repos
     - [Event Page](https://www.meetup.com/Disrupt-4-0/events/271470964/)
 
 13. Model-based Meta Learning
-    - Code (coming soon)
+    - [Code](https://github.com/theneuralbeing/ntm)
     - [Event Page](https://www.meetup.com/Disrupt-4-0/events/271778989/)
