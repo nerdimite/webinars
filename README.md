@@ -61,3 +61,19 @@ This repository is a compiled list of my past webinars/meetups, their code repos
 13. Model-based Meta Learning
     - [Code](https://github.com/theneuralbeing/ntm)
     - [Event Page](https://www.meetup.com/Disrupt-4-0/events/271778989/)
+    
+14. Optimization-based Meta Learning
+    - [Code](https://github.com/nerdimite/maml)
+    - [Event Page](https://www.meetup.com/Disrupt-4-0/events/271778940/)
+    
+15. Logic and Reasoning
+    - [Code](https://github.com/nerdimite/relation-network)
+    - [Event Page](https://www.meetup.com/Disrupt-4-0/events/272145936/)
+    
+16. Neuro-Symbolic AI
+    - [Code](https://github.com/nerdimite/neuro-symbolic-ai-soc)
+    - [Event Page](https://www.meetup.com/Disrupt-4-0/events/272332899/)
+    
+17. Bayesian Neural Networks
+    - [Code](https://github.com/nerdimite/simple-bayesian-neural-net)
+    - [Event Page](https://www.meetup.com/Disrupt-4-0/events/273685396/)
