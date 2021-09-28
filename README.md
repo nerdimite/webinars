@@ -77,3 +77,6 @@ This repository is a compiled list of my past webinars/meetups, their code repos
 17. Bayesian Neural Networks
     - [Code](https://github.com/nerdimite/simple-bayesian-neural-net)
     - [Event Page](https://www.meetup.com/Disrupt-4-0/events/273685396/)
+
+18. Deployment of DETR Model on CellStrat Hub API Platform
+    - [Event Page](https://www.meetup.com/Disrupt-4-0/events/280514370/)
